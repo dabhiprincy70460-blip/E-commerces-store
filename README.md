@@ -45,4 +45,28 @@ This project includes user authentication, product management, order handling, a
 ---
 
 ## 📁 Project Structure
+ecommerce-project/
+│
+├── backend/
+│ ├── config/
+│ ├── controllers/
+│ ├── middleware/
+│ ├── models/
+│ ├── routes/
+│ ├── server.js
+│ └── .env
+│
+├── frontend/
+│ ├── src/
+│ │ ├── pages/
+│ │ ├── compone
 
+---
+
+### Want me to:
+- ✨ Customize README for **college submission**
+- 🧾 Add **screenshots section**
+- 🧪 Add **Postman collection**
+- 📊 Create **project report / PPT**
+
+Say it — we’ll polish it to 🔥 level.
